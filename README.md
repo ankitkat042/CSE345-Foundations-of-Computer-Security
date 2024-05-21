@@ -2,7 +2,7 @@
 Assignment Repository for course FCS(foundations of computer security) at IIIT Delhi taught by Dr. Arun Balaji Buduru
 Completed by: Ankit Kumar IIIT Delhi 2021015
 
-## [Assignment 1]()
+## [Assignment 1](https://github.com/ankitkat042/CSE345-Foundations-of-Computer-Security/tree/main/FCS_Assignment_1)
 Marked: 96/100
 - [x] Cryptography: AES implementation in python from scratch
 - [x] Access Control Mechanism
@@ -10,7 +10,7 @@ Marked: 96/100
 - [x] Networking Protocols and Security
 - [x] TCP
 
-## [Assignment 2]()
+## [Assignment 2](https://github.com/ankitkat042/CSE345-Foundations-of-Computer-Security/tree/main/FCS_Assignment_2)
 Marked: 75/100
 - [x] Phishing: Google Phishing Page and Password saver
 - [x] Burpsuite
@@ -22,11 +22,15 @@ Marked: 75/100
     - [x] Mint an NFT of an image unique to you using the deployed contract
 - [ ] WebGoat - Pentesting Practice
 
-## [Midsem]()
+## [Midsem](https://github.com/ankitkat042/CSE345-Foundations-of-Computer-Security/tree/main/FCS_Midsem)
 Marked: 66/90
 
-## [Course Project]()
+## [Course Project](https://github.com/ankitkat042/CSE345-Foundations-of-Computer-Security/tree/main/FCS_Course_Project)
 Marked: 100/100
+### 25Acres
+![25Acres](https://github.com/W1NDSOR/25acres/blob/main/assets/thumbnail.png)
+A Real Estate Aggregator System; designed to facilitate the secure exchange and verification of property-related documents.
+Project Repository: [Real Estate Aggregator System](https://github.com/W1NDSOR/25acres)
 
 
 ## Note: This repository is for educational purposes only. Please do not misuse the code. This code do not intend to violate GitHub's TOS. 
